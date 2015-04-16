@@ -13,6 +13,7 @@
 		C923E3791AE0196F0073AF4A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C923E3781AE0196F0073AF4A /* Images.xcassets */; };
 		C923E37C1AE0196F0073AF4A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C923E37A1AE0196F0073AF4A /* LaunchScreen.xib */; };
 		C923E3881AE0196F0073AF4A /* class7hittestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C923E3871AE0196F0073AF4A /* class7hittestTests.swift */; };
+		C923E3921AE01DBD0073AF4A /* View1.swift in Sources */ = {isa = PBXBuildFile; fileRef = C923E3911AE01DBD0073AF4A /* View1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		C923E3811AE0196F0073AF4A /* class7hittestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = class7hittestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C923E3861AE0196F0073AF4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C923E3871AE0196F0073AF4A /* class7hittestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = class7hittestTests.swift; sourceTree = "<group>"; };
+		C923E3911AE01DBD0073AF4A /* View1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				C923E3781AE0196F0073AF4A /* Images.xcassets */,
 				C923E37A1AE0196F0073AF4A /* LaunchScreen.xib */,
 				C923E36F1AE0196E0073AF4A /* Supporting Files */,
+				C923E3911AE01DBD0073AF4A /* View1.swift */,
 			);
 			path = class7hittest;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C923E3741AE0196F0073AF4A /* ViewController.swift in Sources */,
+				C923E3921AE01DBD0073AF4A /* View1.swift in Sources */,
 				C923E3721AE0196F0073AF4A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
